@@ -1,2 +1,1 @@
-# git-lfs-test
-for test
+Hello World
