@@ -3,3 +3,4 @@ Validation_data/ filter=lfs diff=lfs merge=lfs -text
 Validation_datd/ filter=lfs diff=lfs merge=lfs -text
 1.jpg filter=lfs diff=lfs merge=lfs -text
 Training_data/ filter=lfs diff=lfs merge=lfs -text
+10mb.psd filter=lfs diff=lfs merge=lfs -text
